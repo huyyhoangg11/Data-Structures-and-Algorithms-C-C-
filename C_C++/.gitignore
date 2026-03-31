@@ -1,0 +1,18 @@
+# Lọc các file thực thi biên dịch từ C/C++
+*.exe
+*.o
+*.obj
+family_tree
+family_tree.exe
+backtracking.exe
+binary_tree.exe
+binh_nuoc_P.03.08.04.exe
+
+# Lọc các file dữ liệu và đồ thị rác
+*.Dat
+*.dot
+BKHN.Dat
+dfs_tree.dot
+
+# Lọc thư mục cài đặt của VS Code
+.vscode/
